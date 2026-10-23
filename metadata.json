@@ -1,0 +1,6 @@
+{
+  "name": "Klinik Romana",
+  "description": "Sistem Informasi Manajemen Klinik Pratama terintegrasi dengan 5 peran kerja: Pendaftaran, Triage Perawat, Dokter & E-Resep, Farmasi & Stok, serta Dashboard Kepala Klinik.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

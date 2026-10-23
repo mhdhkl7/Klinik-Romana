@@ -1,0 +1,6 @@
+{
+  "summary":  "Updated implementation plan for Klinik Romana incorporating HCI and operational improvements: Single Consultation Workspace for Doctor (integrated EMR and E-Resep on one linear screen), Admin Patient Position Tracking, Perawat queue edge case handling (Panggil, Skip/Absent, Batal), Farmasi Minta Substitusi Obat trigger, Visual Stepper Progress indicator (Registrasi -> Triage -> Dokter -> Farmasi -> Selesai), and the optimized 3-tab operational matrix across all 5 personas.",
+  "updatedAt":  "2026-10-22T10:56:32.161555962Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
